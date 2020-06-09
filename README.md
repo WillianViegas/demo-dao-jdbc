@@ -2,7 +2,7 @@
 A JDBC connection using MySQL database with department and sellers tables.
 
 # Motivation
-That was one project of the course Java COMPLETO 2020 Programação Orientada a Objetos + Projetos, was really good do this project to use the knowlegde that I obtained in the classes and lear how to connect in a database, helped to evolve my abilities and motivate me to study more about java.
+That was one project of the course Java COMPLETO 2020 Programação Orientada a Objetos + Projetos, was really good do this project to use the knowlegde that I obtained in the classes and learn how to connect in a database, helped to evolve my abilities and motivate me to study more about java.
 
 # Code Style
 Dao pattern
